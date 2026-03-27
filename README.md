@@ -11,7 +11,7 @@
 #### Pixiv直链：
 
 ```notranslate
-[https://gh-proxy.com/https://raw.githubusercontent.com/solaiolyuii-ux/Umania-API/main/banner.json](https://gh-proxy.com/https://raw.githubusercontent.com/solaiolyuii-ux/Umania-API/main/banner.json)
+https://gh-proxy.com/https://raw.githubusercontent.com/solaiolyuii-ux/Umania-API/main/banner.json
 ```
 
 #### Web图：
@@ -32,6 +32,15 @@ https://cdn.jsdelivr.net/gh/solaiolyuii-ux/Umania-API/banner/142187310_p0.webp
 https://cdn.jsdelivr.net/gh/solaiolyuii-ux/Umania-API/banner/88338018_p0.webp 
 https://cdn.jsdelivr.net/gh/solaiolyuii-ux/Umania-API/banner/98226230_p0.webp
 ```
+
+### 随机图片
+目前有约450张图。
+
+```notranslate
+https://gh-proxy.com/https://raw.githubusercontent.com/solaiolyuii-ux/Umania-API/main/collections.json
+```
+
+collections.json
 
 ### 🌸 Category页面
 
