@@ -40,7 +40,10 @@ https://cdn.jsdelivr.net/gh/solaiolyuii-ux/Umania-API/banner/98226230_p0.webp
 https://gh-proxy.com/https://raw.githubusercontent.com/solaiolyuii-ux/Umania-API/main/collections.json
 ```
 
-collections.json
+使用jsDelivr 加速后的链接。
+```notranslate
+https://cdn.jsdelivr.net/gh/solaiolyuii-ux/Umania-API@main/collections.json
+```
 
 ### 🌸 Category页面
 
