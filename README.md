@@ -35,6 +35,9 @@ https://cdn.jsdelivr.net/gh/solaiolyuii-ux/Umania-API/banner/98226230_p0.webp
 
 ### 🌸 Category页面
 
+
+### 🔸 封面
+
 #### # wutheringwaves 鸣潮
 
 ```notranslate
